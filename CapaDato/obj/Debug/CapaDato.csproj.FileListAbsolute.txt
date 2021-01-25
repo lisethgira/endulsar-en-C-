@@ -1,0 +1,33 @@
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\bin\Debug\CapaEntidad.dll
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\bin\Debug\System.Data.SqlClient.dll
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\bin\Debug\CapaEntidad.pdb
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\bin\Debug\System.Data.SqlClient.xml
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\obj\Debug\CapaDato.csproj.CopyComplete
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaDato\obj\Debug\CapaDato.pdb
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaDato\bin\Debug\CapaEntidad.dll
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaDato\bin\Debug\System.Data.SqlClient.dll
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaDato\bin\Debug\CapaEntidad.pdb
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaDato\bin\Debug\System.Data.SqlClient.xml
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaDato\obj\Debug\CapaDato.csproj.CopyComplete
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaDato\obj\Debug\CapaDato.pdb
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaDato\bin\Debug\CapaEntidad.dll
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaDato\bin\Debug\System.Data.SqlClient.dll
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaDato\bin\Debug\CapaEntidad.pdb
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaDato\bin\Debug\System.Data.SqlClient.xml
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaDato\obj\Debug\CapaDato.csproj.CopyComplete
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaDato\obj\Debug\CapaDato.pdb

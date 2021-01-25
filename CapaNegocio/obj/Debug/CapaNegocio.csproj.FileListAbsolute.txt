@@ -1,0 +1,28 @@
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\taty0\OneDrive\Escritorio\endulsarc#\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaNegocio\bin\Debug\CapaDato.dll
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaNegocio\bin\Debug\CapaDato.pdb
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\gavim\OneDrive\Documents\visual Studio\endulsar en C#\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaNegocio\bin\Debug\CapaDato.dll
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaNegocio\bin\Debug\CapaDato.pdb
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\liseth giraldo\Desktop\lenguaje de programación\endulsar en C#\CapaNegocio\obj\Debug\CapaNegocio.pdb
